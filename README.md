@@ -1,1 +1,0 @@
-# CS-Student-Attendance-system-using-face-recognition
